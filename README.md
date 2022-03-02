@@ -10,3 +10,14 @@
 
 ![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/ad%20click%20images/Ad%20click%20predictions.png)
 ![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/ad%20click%20images/Confusion%20Matrix.png)
+
+# [Project 2: Google Play Store Analysis](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Android_app_market.ipynb)
+* Analyzing for the average app rating on the app market using a histogram.
+* Constructed joint plots for “app price vs rating” and “app size vs rating”.
+* Exploration of ‘app price vs category’ using stripplots.
+* Box plot analysis of sentiment polarity for paid vs. free apps
+* Libraries used: Pandas, Numpy, Matplotlib, Seaborn 
+
+![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Android%20app%20images/App%20distribution.png)
+![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Android%20app%20images/Stripplot.png)
+![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Android%20app%20images/Boxplot.png)
