@@ -34,3 +34,9 @@
 ![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Android%20app%20images/App%20distribution.png)
 ![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Android%20app%20images/Stripplot.png)
 ![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Android%20app%20images/Boxplot.png)
+
+# [Project 4: Nobel Prize winners](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Nobel_Prize_winners.ipynb)
+* Visualized Nobel Prize winners from 1901-2016 using Seaborn library to create plots such as lmplot, scatterplot, lineplot, etc.
+* Libraries used: Pandas, Numpy, Matplotlib, Seaborn
+![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Nobel%20prize%20images/linechart.png)
+![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Nobel%20prize%20images/lmplot.png)
