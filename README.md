@@ -8,4 +8,4 @@
 *	Achieved an accuracy score of 96%. Provided the confusion matrix and classification report.
 *	Libraries used: Sci-kitlearn, Matplotlib, Pandas, Numpy, Seaborn
 
-![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/ad%20click%20images/Ad_click%20pairplot.png)
+![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/ad%20click%20images/Ad%20click%20predictions.png)
