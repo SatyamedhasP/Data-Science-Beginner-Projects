@@ -8,10 +8,23 @@
 *	Achieved an accuracy score of 96%. Provided the confusion matrix and classification report.
 *	Libraries used: Sci-kitlearn, Matplotlib, Pandas, Numpy, Seaborn
 
-![alt text](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/ad%20click%20images/Ad%20click%20predictions.png)
+![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/ad%20click%20images/Ad%20click%20predictions.png)
 ![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/ad%20click%20images/Confusion%20Matrix.png)
 
-# [Project 2: Google Play Store Analysis](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Android_app_market.ipynb)
+# [Project 2: kNN Flower Species Classifier - ML Project](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/kNN_iris.ipynb)
+* Constructed a kNN classification model to predict the species of a flower.
+* Constructed stripplots to visualize the correlation between the attributes of a flower.
+* Analysed attributes using jointplots and histplots.
+* Using the elbow method, determined the optimal 'K' value for the model.
+* Achieved an accuracy score of 97%. Calculated the accuracy score, classification report and confusion matrix.
+* Libraries used: Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
+
+![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/knn%20iris%20images/pairplot.png)
+![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/knn%20iris%20images/confusion%20matrix.png)
+![](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/knn%20iris%20images/elbow.png)
+
+
+# [Project 3: Google Play Store Analysis](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Android_app_market.ipynb)
 * Analyzing for the average app rating on the app market using a histogram.
 * Constructed joint plots for “app price vs rating” and “app size vs rating”.
 * Exploration of ‘app price vs category’ using stripplots.
