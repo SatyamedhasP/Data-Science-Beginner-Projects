@@ -1,4 +1,4 @@
-#Data Science Projects
+# Data Science Projects
 
 # [Project 1: Ad Click Predictions - ML Project](https://github.com/SatyamedhasP/Satyamedhas_Portfolio/blob/main/Ad%20click%20predictions.ipynb)
 *	Constructed a Logistic regression model to predict if the user will click on and ad or not. 
